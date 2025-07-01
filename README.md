@@ -34,32 +34,6 @@ Let's be real – we've all been there. You check your bank account and wonder i
 - 💸 Anyone who's ever said "I'll start budgeting tomorrow"
 - 🌟 People who want pretty charts instead of boring spreadsheets
 
-## 📸 Screenshots & Previews
-
-<div align="center">
-
-### � Main Dashboard
-*Your financial command center*
-
-![Main Dashboard](https://via.placeholder.com/800x400/fdf6f0/333333?text=💸+Main+Dashboard+Preview)
-
-### 💥 Add Expense Form
-*Making spending tracking actually fun*
-
-![Add Expense](https://via.placeholder.com/800x400/fdf6f0/333333?text=💥+Add+Expense+Form)
-
-### 📊 Spending Analytics  
-*Pretty charts that make your data pop*
-
-![Analytics](https://via.placeholder.com/800x400/fdf6f0/333333?text=📊+Beautiful+Analytics+Charts)
-
-### 📱 Mobile Experience
-*Looks fire on your phone too*
-
-<img src="https://via.placeholder.com/300x600/fdf6f0/333333?text=📱+Mobile+View" alt="Mobile View" width="300"/>
-
-</div>
-
 ---
 
 ## 🌟 Features That Hit Different
@@ -181,11 +155,6 @@ The built files will be in the `dist/` folder, ready to deploy anywhere! �
 - Spending trends over time
 - Dark mode (maybe?)
 - Spending challenges and achievements
-
-## Connect with me:
-- 🐙 **GitHub**: [@piyush64-bit](https://github.com/piyush64-bit)
-- 💼 **LinkedIn**: [piyush64bit](https://linkedin.com/in/piyush64bit)
-- ✉️ **Email**: piiyush.sonii@outlook.com
 
 ## 🤝 Contributing
 
