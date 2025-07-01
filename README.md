@@ -79,6 +79,11 @@ A playful, Gen Z-themed expense tracker that helps you keep tabs on your spendin
 - Dark mode (maybe?)
 - Spending challenges and achievements
 
+## Connect with me:
+- 🐙 **GitHub**: [@piyush64-bit](https://github.com/piyush64-bit)
+- 💼 **LinkedIn**: [piyush64bit](https://linkedin.com/in/piyush64bit)
+- ✉️ **Email**: piiyush.sonii@outlook.com
+
 ## 🤝 Contributing
 
 Found a bug or have a feature idea? We're all ears! Open an issue or submit a PR.
